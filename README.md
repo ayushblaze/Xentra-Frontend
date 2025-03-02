@@ -3,6 +3,9 @@
 ## Project Overview
 A modern, responsive gaming website built with React and GSAP, designed to showcase gaming content with smooth animations and an engaging user interface.
 
+## What it looks like as of 2nd March 2025
+https://github.com/user-attachments/assets/a4f324cb-cb2e-49b4-bf76-f2773b579284
+
 ## Features
 - Animated title and hero sections
 - Responsive design
